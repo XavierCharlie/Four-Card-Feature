@@ -52,27 +52,20 @@ img{
 
 .karma{
   border-top: 4px solid orange;
-  display: inline-block;
   position: relative;
   margin-bottom: 0;
 }
 
 .builder{
   border-top: 4px solid red;
-  display: inline-block;
   position: relative;
   margin: 30px 0 30px 0;
-
 }
 
 .supervisor{
   border-top: 4px solid cyan;
-  display: inline-bloc: ;k;
-
 }
 
 .calculator{
   border-top: 4px solid blue;
-  display: inline-block;
-
 }
